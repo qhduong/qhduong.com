@@ -8,6 +8,7 @@ gem 'activerecord-deprecated_finders', github: 'rails/activerecord-deprecated_fi
 
 group :production do
   gem 'pg'
+  gem 'newrelic_rpm'
 end
 
 group :development, :test do
