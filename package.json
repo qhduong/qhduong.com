@@ -1,0 +1,33 @@
+{
+  "devDependencies": {
+    "awesome-typescript-loader": "^3.0.7",
+    "json-loader": "^0.5.4",
+    "source-map-loader": "^0.1.6",
+    "ts-loader": "^2.0.1",
+    "typescript": "^2.2.1",
+    "webpack": "^2.2.1"
+  },
+  "dependencies": {
+    "@types/react": "^15.0.12",
+    "@types/react-dom": "^0.14.23",
+    "react": "^15.4.2",
+    "react-dom": "^15.4.2"
+  },
+  "name": "qhduong",
+  "description": "== README",
+  "version": "1.0.0",
+  "main": "webpack.config.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/qhduong/qhduong.com.git"
+  },
+  "author": "Hieu Duong",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/qhduong/qhduong.com/issues"
+  },
+  "homepage": "https://github.com/qhduong/qhduong.com#readme"
+}
