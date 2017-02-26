@@ -1,5 +1,6 @@
 require 'sinatra'
 require 'sprockets'
+require 'sass'
 require 'uglifier'
 
 class Qhduong < Sinatra::Base

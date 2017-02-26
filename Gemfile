@@ -4,6 +4,7 @@ ruby "2.2.4"
 
 gem 'sinatra'
 gem 'sprockets'
+gem 'sass'
 gem 'uglifier'
 
 group :production do
