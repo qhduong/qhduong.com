@@ -20,3 +20,6 @@
 
 # Ignore node modules
 /node_modules
+
+# Ignore public folder
+/public
